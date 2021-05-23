@@ -6,7 +6,7 @@ import {
     ShoppingCartIcon,
 } from "@heroicons/react/outline"
 const Header = () => {
-    const [session] = useSession();
+    const [useSession] = useSession();
 
     return (
         <header>
