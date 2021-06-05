@@ -17,11 +17,9 @@ function Product({ id, title, price, description, category, image }) {
             id,
             title,
             price,
-            rating,
             description,
             category,
             image,
-            hasPrime,
         };
         // sending product as an action to the redux store... the basket slice
         dispatch(addToBasket(product));

@@ -7,11 +7,10 @@ import {
 } from "@heroicons/react/outline"
 import { useRouter } from "next/router";
 import { selectItems } from "../slices/basketSlice";
-import { useSelector } from "react-redux";
 const Header = () => {
     const [session] = useSession();
     const router = useRouter();
-    const items = useSelector(selectItems);
+    const items = useSelector(selectItems)
 
     return (
         <header>
