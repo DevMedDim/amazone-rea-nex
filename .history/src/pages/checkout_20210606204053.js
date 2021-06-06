@@ -47,9 +47,9 @@ function Checkout() {
                 <div className="flex flex-col bg-white p-10  shadow-md" >
                     {items.length > 0 && (
                         <>
-                            <h2 className="whitespace-nowrap"  >Subtotal ({items.length} items) :{" "}
+                            <h2 className="whitespace-nowrap"  >Subtotal ({items.length} items) :
                             <span className="font-bold" >
-                                  <Currency quantity = {total} currency="MAD" />
+                                  <Currency quantity = {total} currency="MddAD" />
                                 </span>
                             </h2>
                             <button
