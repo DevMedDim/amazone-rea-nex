@@ -6,7 +6,6 @@ import Header from "../components/Header"
 import Currency from "react-currency-formatter";
 import { selectItems, selectTotal } from "../slices/basketSlice"
 import axios from "axios";
-import { loadStripe } from "@stripe/stripe-js";
 const stripePromise = loadStripe(process.env.stripe_public_key);
 
 function Checkout() {
@@ -23,14 +22,6 @@ function Checkout() {
                 email: session.user.email
             }
         )
-        // Redirect user/costumer to stripe checkout
-        const result = await stripe.redirectToCheckout({
-            sessionId: checkoutSession.data.id
-        })
-
-        if (result.error) {
-            alert(result.error.message)
-        }
     };
     return (
         <div className="bg-gray-100">
