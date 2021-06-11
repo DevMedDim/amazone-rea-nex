@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mazone-shop",
+  "private_key_id": "ceff7fe571465d162bd8caf302a2550b3f992585",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkzEWH/OsIm4XQ\nu7iEJE0n8VV7h7o6Za7l845g69zUvQuK0c6PMtO4o1WuEOxwlSe9ngLvkcAYW254\ntO8RF29AHotOFOKeIl4vaK2j+uCnScdUfnNNPsIcsb6FoduQ/NS6VVyirj6KblwD\nuex28qqksADQFwlwa/mIVdM5ixL5ZcmRz9C6jHYtiYeMP3m9CT7tbyFiUx7C5Wta\n470ixNN+2aUZiZXcQUR7j8iT3vYCd0ph0A6OuUqDVUNIdu9MmtwTolq3MAgKYyqR\nPwX9UQb44U+YYgpAXyUvZqpRdBSvVHJbGIK39t4jnE30+MJbX/tv3rS3kR9PPfqI\nFr/+4mJDAgMBAAECggEAO6iLX1BrEYGjrs3WXVf66oPOS1r2St+2sh46o9Ge7xDE\n1etgGKzwwn22rb4IqjUE3vsN2wZrgSXQVzhA93IBXzfvfEPJSi/s4sLFYYCXxVfL\nJkZknUkj4lliPGQ85T7yD8aJM4dasqiC/QJYnTL6HYZttOcyDpW4DufrAIDdTJU8\nNNL5Nc7iCc+Vig1X5eg8PFMQkBQimopqirKcTPmWVFpoYxyCKpiOGzoGXMFm6CVI\nxn01y+TqRtXSVtPQ7GlBni/Rob6tEy/bzZZ6rIOWdq+iDjb0L6AJd/zSwnasN5IN\nKoRKaTu9MGzwNDXEHqAlpn2Xj8drkx2Y+hHyuhpJ2QKBgQDip3stSZohDxvJ0R20\nqUHA81jfsT31JZNCuon+7HVdLKdNKgk/UXxjbFvWmFk7gURAn8SzBC0+8FhIN/1r\n+CK4eJLAeNUeSha6GhgYk4EdBrTWWrZIguPgIIdqreCOFSRQq67JMdaotqlydZxK\nE3MCMabyAy3gZru1UBE4LDcHdwKBgQC6IovR14SsGlJXPOA1Xoh24bKWeDiUa6Rk\nBpkMvNhbAu8UXG46mta9hLrAwm70Lwo4IFoPGf8Zs41ir/xvOaSE8LWtlaJ0azqB\nhSTf2ZjO2Tx9PCY+eEfoKgGsIeTKgMjkjU+Jk7LKWgKjB71+IshWaRME3eXvITXG\n47e+1NPGlQKBgH7QLj78e1wb0/RrKC+4s619ejBOPtg2mdov/J3BNzlWjpTB/EKN\nGQeXzRqYSvTcMo/l1GxE3fvlBcACc6xBPUvxSkqeUL+NvIGLsAewIAFZizyTrIGN\nmmoASUQK3SUh9xubs0Omuu/So6QC4dsgXqzPkxS9aqGvWT7s+XVwZ6mpAoGBAJeP\nF5A2z2WfTRqRi/KI1c8O+W6B13gqqcF0idyQTA7XNbq7hFmdyGqqj7Hy34teXhDT\nbuFLBqdzxxTrPT2HjwlcQmJkK9JlmU7rDdpjgIQ06IcEmhNVtx84TQJO2s90y58l\n3PSl2ffgELOU0tvJEJ0jk4Pr9pSe0v3uX6g3/XR9AoGBALHI4MUcxUWSAL1NkzjH\n6JwxZMUMpuZI8Do3tNJWv7Ryn0Jr48KGgePcQU2q9dGUtdb+C7cN0OPeAjn81dgc\ntG2l9q2NytVwX6ZwZNl5aYWCwmxZ23augQKchDo4TS/NibkdmnNYQwwMmY2SqmKa\n6aIxWTgcGd3M+OQq9+jdnUA8\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nej6n@mazone-shop.iam.gserviceaccount.com",
+  "client_id": "114375396838101361633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nej6n%40mazone-shop.iam.gserviceaccount.com"
+}
